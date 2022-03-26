@@ -1,10 +1,8 @@
 from functools import reduce
 
-numbers = [1, 2, 3, 4, 5, 6]
+numbers = [1, 2, 3, 4, 5]
 
-def sum(a1, a2):
-    return a1 + a2
-
-print(reduce(sum, numbers))
+def reducer(acc, val):
+    return acc+val
 
 print(reduce(sum, numbers, 10))

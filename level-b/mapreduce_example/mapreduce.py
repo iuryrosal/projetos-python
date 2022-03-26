@@ -5,13 +5,8 @@ f = open("../aquarium_manager/aquarium.json", encoding="utf8")
 data_aquarium = json.load(f)
 animals = data_aquarium["data"]
 
-def pick_type_animal(animals):
-    return animals['type'], 1
-
-def shuffle_types(list_animals):
-    def pick_type(a):
-        return a[0]
-    return sorted(list_animals, key=pick_type)
+def pick_animal_type(animal):
+    return animal["type"], 1
 
 def reducer(acc, val):
     if val[0] not in acc.keys():
@@ -20,10 +15,8 @@ def reducer(acc, val):
         acc[val[0]] = acc[val[0]] + val[1]
     return acc
 
-list_types = list(map(pick_type_animal, animals))
-print(list_types)
-list_types_sorted = shuffle_types(list_types)
-print(list_types_sorted)
-quant_per_type = reduce(reducer, list_types_sorted, {})
-print(quant_per_type)
 
+type_animals = list(map(pick_animal_type, animals))
+print(type_animals)
+animals_type_count = reduce(reducer, type_animals, {})
+print(animals_type_count)
