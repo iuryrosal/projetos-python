@@ -17,7 +17,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 
 ## 😄 Level-A
 
-> <b>😏 Level B</b>: Projetos desse nível já envolvem conhecimentos um pouco mais intermediários para quem está começando. Normalmente trabalhamos com alguns paradigmas de programação como Programação Orientada a Objetos.
+> <b>😄 Level A</b>: Projetos que envolvem os primeiros passos no mundo da programação e para quem está aprendendo a linguagem Python.
 
 | ID | Projeto | Vídeo | Repositório |
 |----|---------|-------|-------------|
