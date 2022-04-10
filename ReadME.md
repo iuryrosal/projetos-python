@@ -34,7 +34,8 @@ Sem eles nada disso seria possível:
 
 Quer me apoiar nesse trabalho de produzir materiais e conteúdos, em português, para a comunidade brasileira de software e dados? Se torne apoiador via a campanha do apoia-se, com o valor simbolico mensal, além de me estimular na criação de conteúdo, irá me auxiliar nas despesas do projeto voluntário.
 
-<sub>[<img src="https://github.com/iuryrosal/projetos-python/images/botao_apoia_se.png">](https://apoia.se/iuryrosaltech)</sub>
+<sub> [<img src="https://github.com/iuryrosal/projetos-python/blob/main/images/botao_apoia_se.png">](https://apoia.se/iuryrosaltech) 
+</sub> 
 
 
 ## 📛 Direitos autorais
