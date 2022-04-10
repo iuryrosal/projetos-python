@@ -20,8 +20,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 > Antes de tudo você pode me ajudar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
 - Me seguindo nas redes sociais
 - Compartilhar o conteúdo para ajudar no alcance
-- Faça uma doação via Apoia-se, apoiando meu trabalho como um todo (e tendo benefícios em troca):
-<sub> [<img src = "https://img.shields.io/badge/Apoie%20meu%20trabalho-Por%20apenas%20R%24%205-brightgreen">](https://apoia.se/iuryrosaltech) 
+- Seja apoiador via Apoia-se (e tendo benefícios em troca):
+<sub> [<img src="https://github.com/iuryrosal/projetos-python/blob/main/images/botao_apoia_se.png">](https://apoia.se/iuryrosaltech) 
 </sub> 
 
 ## 🥰 Apoiadores
