@@ -12,7 +12,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/iuryrosal)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iuryrosal/)
-![Canal do Youtube](https://img.shields.io/youtube/channel/subscribers/UC0bUO0t7Hv7vTBCxUecj_aw?style=social)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC0bUO0t7Hv7vTBCxUecj_aw)
 </sub>
 
 ## ⚠️ Aviso importante
@@ -23,6 +23,23 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 - Faça uma doação via Apoia-se, apoiando meu trabalho como um todo (e tendo benefícios em troca):
 <sub> [<img src = "https://img.shields.io/badge/Apoie%20meu%20trabalho-Por%20apenas%20R%24%205-brightgreen">](https://apoia.se/iuryrosaltech) 
 </sub> 
+
+## 🥰 Apoiadores
+Sem eles nada disso seria possível:
+- Messias Tayllan
+- Aluísio Alves
+- Pedro Henrique
+- Vinicius Melo
+- Tomás Coelho
+- Helena Oliveira
+- Michel Vasconcelos
+- José Vanderley
+- Victor Henrique
+- Andrea Sampaio
+- Lucilaneo Santos
+- Laura Santiago 
+
+Quer me apoiar nesse trabalho de produzir materiais e conteúdos, em português, para a comunidade brasileira de software e dados? 
 
 ## 📛 Direitos autorais
 
