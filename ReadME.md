@@ -26,23 +26,17 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 
 ## 🥰 Apoiadores
 Sem eles nada disso seria possível:
-- Messias Tayllan
-- Aluísio Alves
-- Pedro Henrique
-- Vinicius Melo
-- Tomás Coelho
-- Helena Oliveira
-- Michel Vasconcelos
-- José Vanderley
-- Victor Henrique
-- Andrea Sampaio
-- Lucilaneo Santos
-- Laura Santiago 
+
+|Messias Tayllan|Aluísio Alves|Pedro Henrique|Vinicius Melo
+|----|---------|-------|-------------|
+|Tomás Coelho|Helena Oliveira|Michel Vasconcelos|José Vanderley
+|Victor Henrique|Andrea Sampaio|Lucilaneo Santos|Laura Santiago|
 
 Quer me apoiar nesse trabalho de produzir materiais e conteúdos, em português, para a comunidade brasileira de software e dados? Se torne apoiador via a campanha do apoia-se, com o valor simbolico mensal, além de me estimular na criação de conteúdo, irá me auxiliar nas despesas do projeto voluntário.
-<a href="https://github.com/iuryrosal/projetos-python">
-    [<img src="./images/botao_apoia_se.png" alt="Apoia-se">](https://apoia.se/iuryrosaltech)
-</a>
+
+<sub>[<img src="https://github.com/iuryrosal/projetos-python/images/botao_apoia_se.png">](https://apoia.se/iuryrosaltech)</sub>
+
+
 ## 📛 Direitos autorais
 
 > Alguns projetos desse repositório foram construídos e inspirados de fontes estrangeiras. Em cada vídeo do canal, na descrição, as fontes sempre são expostas. Mas, de modo geral, reúno todas elas aqui, em respeito ao ótimo trabalho dos seus criadores. 
