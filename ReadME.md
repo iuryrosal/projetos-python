@@ -83,6 +83,7 @@ Os projetos/videos estão categorizados em leves.
 | 09 | Filtrando e Mapeando Animais de um Aquário    |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_09]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_09]|
 | 10 | Map e Reduce em Aquário|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_10]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_10]|
 | 11 | Coletando e Exibindo Dados do NBA com API|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_11]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_11]|
+| 12 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_12]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_12]|
 
 ## 🤩 Level-C
 
@@ -97,6 +98,7 @@ Os projetos/videos estão categorizados em leves.
 [video_09]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=9
 [video_10]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=10
 [video_11]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=11
+[video_12]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=12
 
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
@@ -108,4 +110,4 @@ Os projetos/videos estão categorizados em leves.
 [repo_08]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/08
 [repo_09]:https://github.com/iuryrosal/projetos-python/tree/main/level-b/09
 [repo_10]:https://github.com/iuryrosal/projetos-python/tree/main/level-b/10
-[repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11
+[repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11[repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
