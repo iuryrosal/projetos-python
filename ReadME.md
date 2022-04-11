@@ -110,4 +110,5 @@ Os projetos/videos estão categorizados em leves.
 [repo_08]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/08
 [repo_09]:https://github.com/iuryrosal/projetos-python/tree/main/level-b/09
 [repo_10]:https://github.com/iuryrosal/projetos-python/tree/main/level-b/10
-[repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11[repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
+[repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11
+[repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
