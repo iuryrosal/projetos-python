@@ -88,19 +88,19 @@ Os projetos/videos estão categorizados em leves.
 
 ## 🤩 Level-C
 
-[video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=1
-[video_02]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=2
-[video_03]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=3
-[video_04]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=4
-[video_05]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=5
-[video_06]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=6
-[video_07]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=7
-[video_08]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=8
-[video_09]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=9
-[video_10]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=10
-[video_11]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=11
-[video_12]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=12
-[video_13]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=13
+[video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_02]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_03]:https://www.youtube.com/watch?v=kO_lUkeQm4c&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_04]:https://www.youtube.com/watch?v=yfAixrxCVfo&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_05]:https://www.youtube.com/watch?v=aAImiFpG_hA&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_06]:https://www.youtube.com/watch?v=ridIE7ZS5KI&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_07]:https://www.youtube.com/watch?v=m8xBpg0knCM&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_08]:https://www.youtube.com/watch?v=66ugH75ao7c&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_09]:https://www.youtube.com/watch?v=0PvfcHCtqXw&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_10]:https://www.youtube.com/watch?v=yZ2ATIGXSIQ&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_11]:https://www.youtube.com/watch?v=ghOaY1sd9aY&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_12]:https://www.youtube.com/watch?v=9BwJKlLu9Ug&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_13]:https://www.youtube.com/watch?v=YEvoDf2azq0&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
