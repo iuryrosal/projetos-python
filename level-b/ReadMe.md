@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/iuryrosal/projetos-python">
-    <img src="./images/capa.png" alt="Projetos em Python para Iniciantes">
+    <img src="../images/capa.png" alt="Projetos em Python para Iniciantes">
   </a>
   <h1 align="center">Projetos em Python para Iniciantes - Level B</h1>
 </p>
