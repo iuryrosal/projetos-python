@@ -25,6 +25,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 | 10 | Map e Reduce em Aquário|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_10]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_10]|
 | 11 | Coletando e Exibindo Dados do NBA com API|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_11]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_11]|
 | 12 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_12]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_12]|
+| 13 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_13]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_13]|
 
 
 [video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=1
@@ -39,6 +40,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [video_10]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=10
 [video_11]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=11
 [video_12]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=12
+[video_13]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=13
 
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
@@ -52,3 +54,4 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [repo_10]:https://github.com/iuryrosal/projetos-python/tree/main/level-b/10
 [repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11
 [repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
+[repo_13]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/13
