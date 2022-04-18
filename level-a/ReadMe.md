@@ -30,17 +30,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 | 07 | Validando datas com funções|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_07]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_07]|
 | 08 | Detectando palindromos com recursividade|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_08]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_08]|
 
-[video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=1
-[video_02]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=2
-[video_03]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=3
-[video_04]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=4
-[video_05]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=5
-[video_06]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=6
-[video_07]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=7
-[video_08]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=8
-[video_09]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=9
-[video_10]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=10
-[video_11]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W&index=11
+[video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_02]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_03]:https://www.youtube.com/watch?v=kO_lUkeQm4c&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_04]:https://www.youtube.com/watch?v=yfAixrxCVfo&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_05]:https://www.youtube.com/watch?v=aAImiFpG_hA&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_06]:https://www.youtube.com/watch?v=ridIE7ZS5KI&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_07]:https://www.youtube.com/watch?v=m8xBpg0knCM&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_08]:https://www.youtube.com/watch?v=66ugH75ao7c&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
