@@ -54,10 +54,10 @@ Quer me apoiar nesse trabalho de produzir materiais e conteúdos, em português,
 Os projetos/videos estão categorizados em leves.
 > <b>😄 Level A</b>: Projetos que envolvem os primeiros passos no mundo da programação e para quem está aprendendo a linguagem Python.
 #
-> <b>😏 Level B</b>: Projetos desse nível já envolvem conhecimentos um pouco mais intermediários para quem está começando. Normalmente trabalhamos com alguns paradigmas de programação como Programação Orientada a Objetos.
+> <b>😏 Level B</b>: Projetos desse nível já envolvem conhecimentos um pouco mais intermediários para quem está começando. Normalmente trabalhamos com alguns paradigmas de programação, como Programação Orientada a Objetos, estruturas de dados e técnicas de construção de algoritmos.
 
 # 
-> <b>🤩 Level C</b>: Projetos mais avançados para quem está começando. Nesses projetos lidaremos com conceitos como estruturas de dados, técnicas de construção de algoritmos, métodos numéricos, entre outros conhecimentos mais avançados. Normalmente iremos envolver outras áreas de conhecimentos.
+> <b>🤩 Level C</b>: Projetos mais avançados para quem está começando. Nesses projetos lidaremos com conceitos como Design Patterns, paralelismo, concorrência, métodos numéricos e aplicações dos conhecimentos de Python combinando com conhecimentos de outras áreas.
  
 ## 📚 ÍNDICE
 [😄 Level-A](#-level-a) <br>
