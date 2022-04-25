@@ -26,6 +26,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 | 11 | Coletando e Exibindo Dados do NBA com API|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_11]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_11]|
 | 12 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_12]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_12]|
 | 13 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_13]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_13]|
+| 14 | Portas Lógicas e Herança |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_13]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_13]|
 
 
 [video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
@@ -41,6 +42,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [video_11]:https://www.youtube.com/watch?v=ghOaY1sd9aY&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 [video_12]:https://www.youtube.com/watch?v=9BwJKlLu9Ug&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 [video_13]:https://www.youtube.com/watch?v=YEvoDf2azq0&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
+[video_14]:https://www.youtube.com/watch?v=_iCCE_VuO4g&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
@@ -55,3 +57,4 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [repo_11]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/11
 [repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
 [repo_13]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/13
+[repo_14]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/14
