@@ -1,0 +1,16 @@
+@startuml
+
+class LogicGate
+class BinaryGate
+class UnaryGate
+class ANDGate
+class ORGate
+class NOTGate
+
+LogicGate -- BinaryGate
+LogicGate -- UnaryGate
+BinaryGate -- ANDGate
+BinaryGate -- ORGate
+UnaryGate -- NOTGate
+
+@enduml
