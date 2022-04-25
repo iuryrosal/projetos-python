@@ -42,6 +42,7 @@ Quer me apoiar nesse trabalho de produzir materiais e conteúdos, em português,
 
 > Alguns projetos desse repositório foram construídos e inspirados de fontes estrangeiras. Em cada vídeo do canal, na descrição, as fontes sempre são expostas. Mas, de modo geral, reúno todas elas aqui, em respeito ao ótimo trabalho dos seus criadores. 
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim) - Canal do Youtube de Tecnologia.
+- [Resolução de Problemas com Algoritmos e Estruturas de Dados usando Python](https://panda.ime.usp.br/pythonds/static/pythonds_pt/index.html) - Site atrelado a instituição IME-USP
 
 ## 💡 Nossa proposta
 
