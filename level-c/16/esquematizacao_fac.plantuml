@@ -1,0 +1,40 @@
+@startuml
+interface Transport {
+  +deliver()
+}
+
+class Truck {
+  +name
+  +category
+  +deliver()
+}
+
+class Ship {
+  +String name 
+  +String category 
+  +deliver()
+}
+
+class Logistics {
+  +createTransport()
+  +planDelivery()
+}
+
+class RoadLogistics {
+  +String name 
+  +createTransport()
+}
+
+class SeaLogistics {
+  +String name 
+  +createTransport()
+}
+
+Logistics --> RoadLogistics
+Logistics --> SeaLogistics
+Transport --> Truck
+Transport --> Ship
+Logistics --- Transport
+
+
+@enduml

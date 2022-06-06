@@ -1,0 +1,7 @@
+@startuml
+class Truck {
+  +String name
+  +planDelivery()
+}
+Truck <|-- Application
+@enduml
