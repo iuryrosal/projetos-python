@@ -1,0 +1,17 @@
+@startuml
+
+class APICe {
+  +String token
+  +collect_data_transport()
+  +collect_data_transport_by_city(city)
+  +collect_data_security()
+  +collect_data_security_by_city(city)
+}
+
+class APIFortal {
+  +String token
+  +collect_data_transport()
+  +collect_data_security()
+}
+
+@enduml

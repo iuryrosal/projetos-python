@@ -1,0 +1,69 @@
+@startuml
+
+interface AbstractApiFortal{
+  +String token
+  +collect_data()
+}
+
+class ApiFortalTransport {
+  +collect_data()
+}
+
+class ApiFortalSecurity {
+  +collect_data()
+}
+
+interface AbstractApiCe{
+  +String token
+  +collect_data()
+  +collect_data_by_city(city)
+}
+
+class ApiCeTransport {
+  +collect_data()
+  +collect_data_by_city(city)
+}
+
+class ApiCeSecurity {
+  +collect_data()
+  +collect_data_by_city(city)
+}
+
+interface AbstractAPIFactory{
+  +String token_ce
+  +String token_fortal
+  +create_api_fortal()
+  +create_api_ce()
+}
+
+class TransportDataFactory {
+  +create_api_fortal() : ApiFortalTransport
+  +create_api_ce() : ApiCeTransport
+}
+
+class SecurityDataFactory {
+  +create_api_fortal() : ApiFortalSecurity
+  +create_api_ce() : ApiCeSecurity
+}
+
+class App {
+
+}
+
+AbstractAPIFactory --> TransportDataFactory
+AbstractAPIFactory --> SecurityDataFactory
+
+AbstractApiFortal --> ApiFortalTransport
+AbstractApiFortal --> ApiFortalSecurity
+
+AbstractApiCe --> ApiCeTransport
+AbstractApiCe --> ApiCeSecurity
+
+App --> AbstractAPIFactory
+TransportDataFactory --> ApiFortalTransport
+TransportDataFactory --> ApiCeTransport
+
+SecurityDataFactory --> ApiFortalSecurity
+SecurityDataFactory --> ApiCeSecurity
+
+@enduml
