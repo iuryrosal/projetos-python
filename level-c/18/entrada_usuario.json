@@ -1,0 +1,11 @@
+{
+  "name": "Iury Rosal",
+  "origem": "Linkedin",
+  "permissao": "FOLLOWERS",
+  "data_inicio": "2021-12-31",
+  "data_fim": "2021-01-01",
+  "filter": {
+    "Title_Contain": "Dados",
+    "Quant_Exp": ">3"
+  }
+}

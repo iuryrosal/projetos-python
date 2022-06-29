@@ -1,0 +1,6 @@
+{
+  "QueryParam": "&Title_Contain=Dados&Quant_Exp=>3",
+  "DateRange": "DateStart=2021-12-31&DateEnd=2021-01-01",
+  "Permission": "/FOLLOWERS/",
+  "Endpoint": "https://www.linkedin.com/company/86297503/api/FOLLOWERS/DateStart=2021-12-31&DateEnd=2021-01-01&Title_Contain=Dados&Quant_Exp=>3"
+}
