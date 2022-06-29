@@ -86,9 +86,15 @@ Os projetos/videos estão categorizados em leves.
 | 11 | Coletando e Exibindo Dados do NBA com API|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_11]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_11]|
 | 12 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_12]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_12]|
 | 13 | Conversor de Moedas Orientado a Objetos|[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_13]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_13]|
-| 14 | Portas Lógicas e Herança |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_13]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_13]|
+| 14 | Portas Lógicas e Herança |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_14]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_14]|
+| 15 | - |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_15]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_15]|
 
 ## 🤩 Level-C
+| ID | Projeto | Vídeo | Repositório |
+|----|---------|-------|-------------|
+| 16 | Padrões de Projeto: Factory Method |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_16]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_16]|
+| 17 | Padrões de Projeto: Abstract Factory |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_17]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_17]|
+| 18 | Padrões de Projeto: Builder |[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">][video_18]|[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_18]|
 
 [video_01]:https://www.youtube.com/watch?v=MRYlWPrsMYk&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 [video_02]:https://www.youtube.com/watch?v=x0_mWMQLz3E&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
@@ -105,6 +111,10 @@ Os projetos/videos estão categorizados em leves.
 [video_13]:https://www.youtube.com/watch?v=YEvoDf2azq0&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 [video_14]:https://www.youtube.com/watch?v=_iCCE_VuO4g&list=PLshkB4NQEfC7jz8Ig-JcqwjZz8WSI2s8W
 
+[video_16]:https://youtu.be/CTagrzz-GXs
+[video_17]:https://youtu.be/8VhaRVsUmTU
+[video_18]:https://youtu.be/TLppLr2R1mI
+
 [repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
 [repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
 [repo_03]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/03
@@ -119,3 +129,7 @@ Os projetos/videos estão categorizados em leves.
 [repo_12]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/12
 [repo_13]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/13
 [repo_14]:https://github.com/iuryrosal/projetos-python/blob/main/level-b/14
+
+[repo_16]:https://github.com/iuryrosal/projetos-python/tree/main/level-c/16
+[repo_17]:https://github.com/iuryrosal/projetos-python/tree/main/level-c/17
+[repo_18]:https://github.com/iuryrosal/projetos-python/tree/main/level-c/18
