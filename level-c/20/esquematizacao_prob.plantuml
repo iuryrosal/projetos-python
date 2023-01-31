@@ -1,0 +1,23 @@
+@startuml
+
+class ClientCode {
+  + client_code(data)
+}
+
+class DataDict {
+  + get_clients()
+}
+
+class DataList {
+  + get_list_clients()
+}
+
+class Adapter {
+  + method(data)
+}
+
+ClientCode o-- DataDict
+DataList <|-- Adapter
+DataDict <|-- Adapter
+ClientCode o-- Adapter
+@enduml
